@@ -1,0 +1,10 @@
+[BLUE]
+blue1
+blue2
+blue3
+blue4
+[RED]
+red1
+red2
+red3
+red4
